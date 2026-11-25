@@ -2,6 +2,11 @@
   "schemaVersion": 2,
   "kind": "app",
   "name": "mistral-chat-app",
+  "deployment": {
+    "organizationId": "56c6a41d-29da-41c6-8339-b1c9e97fb5f8",
+    "workspaceId": "7cf89d64-01a4-4c17-9761-f75fdf7bfcd3",
+    "appId": "01a21274-fd47-7429-ada6-86993e9b4b83"
+  },
   "modules": [
     {
       "type": "app",
